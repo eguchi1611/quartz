@@ -1,0 +1,2 @@
+folder: 'D:\CrystalNetwork\Settings\'
+sqlite: 'jdbc:sqlite:D:\CrystalNetwork\minecraft.db'

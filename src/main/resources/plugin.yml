@@ -1,0 +1,3 @@
+main: work.crystalnet.quartz.Quartz
+name: Quartz
+version: ${project.version}
